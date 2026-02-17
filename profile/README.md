@@ -12,6 +12,7 @@ Services are hosted on **Microsoft Azure App Service** and other Azure infrastru
 | 🤖 **BYBot** | Telegram bot with AI-powered responses | <a href="https://github.com/Bratislawa-Youghurt/bybot-az-functionapp">bybot-az-functionapp</a> | Python, Azure Functions |
 | 🎉 **Wappuheila** | Event signup website for Wappuheila | <a href="https://github.com/Bratislawa-Youghurt/wappuheila-new">wappuheila-new</a> | Node.js, Express, EJS |
 | 📝 **Ilmomasiina** | Universal event registration system | <a href="https://github.com/Bratislawa-Youghurt/ilmomasiina">ilmomasiina</a> | TypeScript, React, Node.js, PostreSQL |
+| 📸 **Piwigo** | Photo gallery for community photos | <a href="https://github.com/Bratislawa-Youghurt/piwigo-azure">piwigo-azure</a> | PHP, Piwigo, Azure MySQL, Azure Storage |
 
 ## 📚 Documentation
 
@@ -24,7 +25,7 @@ Some repositories contain legacy versions that have been replaced by newer imple
 - `piikki` → replaced by `piikki-new`
 - `wappuheila` → replaced by `wappuheila-new`
 - `BYBot` → replaced by `bybot-az-functionapp`
-- `piwigo-docker` → deprecated (Currently deployed with Docker Compose on Azure, which is deprecated, needs to be re-deployed using Azure Flexible MySQL Server and Piwigo container application)
+- `piwigo-docker` → replaced by `piwigo-azure`
 
 ## 🔒 Access Note
 
